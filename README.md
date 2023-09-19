@@ -17,3 +17,10 @@
 
 * C
   ![Código em C da busca binária](assets/c_binary_search_code.png)
+
+### Calc fatorial
+* Python
+  ![Código em Python de calculo de fatorial](assets/python_calc_factorial_code.png)
+
+* C
+  ![Código em C de calculo de fatorial](assets/c_calc_factorial_code.png)
