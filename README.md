@@ -1,4 +1,5 @@
-# atv_19-09-2023_estrutura_e_analise_de_dados
+# Atividade 19/09/2023
+## Estruturas de Dados e Análise de Algoritimos
 
-## Comparação
+### Comparação
 ![Tabela de comparação](assets/table.png)
